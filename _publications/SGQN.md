@@ -7,4 +7,4 @@ venue: 'Neurips'
 paperurl: 'https://arxiv.org/abs/2204.06355'
 ---
 *(David Bertoin, Emmanuel Rachelson)*  
-[Download paper here](https://arxiv.org/abs/2204.06355)
+<!-- [Download paper here](https://arxiv.org/abs/2204.06355) -->

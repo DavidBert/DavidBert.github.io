@@ -7,5 +7,5 @@ venue: 'IJACI-ECAI 2022 Workshop: 12th International Workshop on Agents in Traff
 paperurl: 'http://ceur-ws.org/Vol-3173/8.pdf'
 ---
 *(David Bertoin, Adrien Gauffriau, Damien Grasset, Jayant Sen Gupta)*    
-[Download paper here](http://ceur-ws.org/Vol-3173/8.pdf)
+<!-- [Download paper here](http://ceur-ws.org/Vol-3173/8.pdf) -->
 
