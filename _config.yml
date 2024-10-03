@@ -85,10 +85,10 @@ author:
   # bio              : "Hello, my name is David Bertoin, I am a research engineer at IRT-Saint-Exupery and in my last year of thesis at ISAE SUPAERO under the supervision of Emmanuel Rachelson and Sébastien Gerchinovitz. I am also a part-time associate professor at INSA Toulouse.
 # My research mainly focuses on state representations in Reinforcement learning in order to improve generalization"
   location         : "Toulouse, France"
-  employer         : "IRT Saint-Exupéry, INSA Toulouse"
+  employer         : "Photoroom, INSA Toulouse"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=oAZZ-o4AAAAJ"
-  email            : "david.bertoin@irt-saintexupery.com"
+  email            : "bertoin at insa-toulouse.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
